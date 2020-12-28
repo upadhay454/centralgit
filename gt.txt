@@ -1,0 +1,2 @@
+Hi,I'm using git commit test using cmd.
+ 
